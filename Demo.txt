@@ -1,0 +1,7 @@
+python is a popular programming language.
+It is easy to learn.
+files can be read and written in python.
+Every line here starts with a capital letter is ignored.
+lowercase lines are copied to Demo2.txt.
+This line will not be copied.
+the end of the file.

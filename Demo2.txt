@@ -1,0 +1,4 @@
+python is a popular programming language.
+files can be read and written in python.
+lowercase lines are copied to Demo2.txt.
+the end of the file.
